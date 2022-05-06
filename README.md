@@ -1,5 +1,5 @@
 # Mapty App
-Live demo: [_here_](https://https://mateusz-ramotowski-poland.github.io/Mapty-App-Udemy-Course/).
+Live demo: [_here_](https://mateusz-ramotowski-poland.github.io/Mapty-App-Udemy-Course/).
 
 ## Table of Contents
 * [General Info](#general-information)
