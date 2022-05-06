@@ -144,8 +144,8 @@ class App {
   }
 
   _toggleElevationField() {
-    inputElevation.closest('form__row').classList.toggle('form__row--hidden');
-    inputCadence.closest('form__row').classList.toggle('form__row--hidden');
+    inputElevation.closest('.form__row').classList.toggle('form__row--hidden');
+    inputCadence.closest('.form__row').classList.toggle('form__row--hidden');
   }
 
   _newWorkout(e) {
@@ -203,7 +203,7 @@ class App {
     this._hideForm();
 
     // Set local storage to all workouts
-    this._getLocalStorage();
+    this._setLocalStorage();
   }
 
   _renderWorkoutMarker(workout) {
